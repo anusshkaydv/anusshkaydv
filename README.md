@@ -47,6 +47,6 @@ Check out my repositories to explore my work in:
 
 ## Connect With Me
 
-LinkedIn: www.linkedin.com/in/your-linkedin-profile
+LinkedIn: www.linkedin.com/in/anushka-yadav-6154492b8
 
 Email: anushka51203@gmail.com
