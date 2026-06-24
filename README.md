@@ -40,10 +40,16 @@ Check out my repositories to explore my work in:
 
 ### Mahindra & Mahindra
 - Worked in the Production Department
+- Analyzed production data using Excel to identify efficiency improvements.
+-	Assisted in documentation and evaluation of production performance metrics.
+-	Worked with ERP systems for data tracking and process automation.
+-	Collaborated with teams to improve workflow efficiency.
 
 ### BHEL
 - Gained exposure to Hospital Management Systems
 - Worked with documentation and data management
+- Supported patient data management, appointment scheduling, and electronic record systems.
+-	Learned healthcare database management and data security protocols.
 
 ## Connect With Me
 
