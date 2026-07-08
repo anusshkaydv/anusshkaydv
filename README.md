@@ -49,7 +49,7 @@ Check out my repositories to explore my work in:
 - Gained exposure to Hospital Management Systems
 - Worked with documentation and data management
 - Supported patient data management, appointment scheduling, and electronic record systems.
--	Learned healthcare database management and data security protocols.
+- Learned healthcare database management and data security protocols.
 
 ## Connect With Me
 
