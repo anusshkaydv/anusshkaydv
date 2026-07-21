@@ -24,6 +24,8 @@ My experience includes working with Power BI, SQL, Python, and Advanced Excel to
 ## Featured Projects
 
 Check out my repositories to explore my work in:
+
+- NexaTech Order-to-Cash Reporting System
 - Retail Analytics
 - Customer Shopping Behaviour
 - OLA Ride Analytics
