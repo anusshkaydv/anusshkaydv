@@ -51,11 +51,6 @@ Govind Ballabh Pant Institute of Engineering & Technology (GBPIET)
 - Git
 - Docker
 
-📈 Interested in:
-- Data Analytics
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
 
 ---
 
