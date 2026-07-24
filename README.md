@@ -3,7 +3,6 @@
 ## About Me
 ## Data Analyst | Business Intelligence | SQL | Power BI | Python | Advanced Excel
 I'm a Data Analyst passionate about building end-to-end analytics and business intelligence solutions using SQL, Python, Power BI, Advanced Excel, and Azure.
-
 My work focuses on transforming raw business data into actionable insights through ETL pipelines, data modeling, interactive dashboards, and KPI reporting. I enjoy solving real-world business problems by combining analytics, visualization, and automation.
 
 
