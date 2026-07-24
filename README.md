@@ -52,7 +52,7 @@ Python • SQL • Azure Blob Storage • Azure SQL Database • Power BI • ET
 🔗 Repository:
 https://github.com/anusshkaydv/NexaTech-Order-to-Cash-Reporting-System
 
----
+
 
 ## 🛒 Retail Intelligence Analytics Platform
 
@@ -71,7 +71,7 @@ Python • PostgreSQL • SQL • Power BI • Grafana • Docker
 🔗 Repository:
 https://github.com/anusshkaydv/Retail-Intelligence-Analytics-Platform
 
----
+
 
 ## 📈 Real-Time Stock Market Dashboard
 
@@ -89,7 +89,7 @@ Python • Advanced Excel • Power Query • VBA • Alpha Vantage API
 🔗 Repository:
 https://github.com/anusshkaydv/Real-Time-Stock-Market-Dashboard
 
----
+
 
 ## 🚖 Additional Analytics Projects
 
@@ -125,6 +125,8 @@ Explore all repositories here:
 - Worked with documentation and data management
 - Supported patient data management, appointment scheduling, and electronic record systems.
 - Learned healthcare database management and data security protocols.
+
+---
 
 ## Connect With Me
 
