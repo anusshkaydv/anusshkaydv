@@ -25,22 +25,11 @@ Govind Ballabh Pant Institute of Engineering & Technology (GBPIET)
 
 **Business Intelligence:** Power BI, DAX, Microsoft Excel, Grafana
 
-**Cloud**
-- Azure Blob Storage
+**Cloud:** Azure Blob Storage
 
-**Python**
-- Pandas
-- NumPy
-- Faker
-- SQLAlchemy
+**Python:** Pandas, NumPy, Faker, SQLAlchemy
 
-**Other**
-- ETL
-- Data Warehousing
-- Star Schema
-- Data Modeling
-- Git
-- Docker
+**Other:** ETL, Data Warehousing, Star Schema, Data Modeling, Git, Docker
 
 
 ---
