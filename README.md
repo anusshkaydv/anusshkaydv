@@ -19,20 +19,11 @@ Govind Ballabh Pant Institute of Engineering & Technology (GBPIET)
 ---
 ## 🛠 Technical Skills
 
-**Programming**
-- Python
-- SQL
+**Programming:** Python, SQL
 
-**Databases**
-- PostgreSQL
-- SQL Server
-- Azure SQL Database
+**Databases:** PostgreSQL, SQL Server, Azure SQL Database
 
-**Business Intelligence**
-- Power BI
-- DAX
-- Microsoft Excel
-- Grafana
+**Business Intelligence:** Power BI, DAX, Microsoft Excel, Grafana
 
 **Cloud**
 - Azure Blob Storage
